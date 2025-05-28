@@ -2,6 +2,9 @@
 
 A minimal Next.js e-commerce frontend with nested categories, product listings, product details, and cart functionality.
 
+## Demo
+[View Demo Video](https://www.awesomescreenshot.com/video/40330593?key=018ffe43a76fe123e0be78a7e2d76f0e)
+
 ## Features
 
 - View nested categories (up to 3 levels deep)
